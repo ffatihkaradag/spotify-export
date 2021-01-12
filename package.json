@@ -1,0 +1,27 @@
+{
+  "name": "spotify-export",
+  "version": "1.0.0",
+  "description": "Export your saved songs on Spotify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffatihkaradag/spotify-export.git"
+  },
+  "keywords": [
+    "spotify",
+    "export",
+    "archive",
+    "backup"
+  ],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ffatihkaradag/spotify-export/issues"
+  },
+  "homepage": "https://github.com/ffatihkaradag/spotify-export#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
